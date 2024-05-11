@@ -1,13 +1,13 @@
 import React from 'react';
 import './youtubesection.css'; 
-import drinkwat from '../images/drinkwat.webp';
+import Drinkingwater from '../images/drinkwat.webp';
 import Girlstoiletimage from '../images/girlstoilet.webp';
 import Bluetreasuresimage from '../images/bluetreas.webp';
 
 const youtubeVideos = [
   {
     title: 'Potable Water Facility Development for Rural Areas',
-    thumbnail: drinkwat,
+    thumbnail: Drinkingwater,
     videoUrl: 'https://youtu.be/tt47Ut0a_Ls?si=0iDIyXUeOpEYxDEh',
   },
   {
